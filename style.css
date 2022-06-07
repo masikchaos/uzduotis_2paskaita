@@ -1,0 +1,32 @@
+body {
+    background: rgb(29, 27, 27);
+    color: rgb(238, 192, 192);
+    margin: 0;
+}
+
+.main {
+    width: 800px;
+    margin: 25px;
+    background: darkred;
+    display: flex;
+    border: 4px solid white;
+    box-shadow: 30px 20px 15px lightblue;
+}
+
+.info {
+    padding: 25px;
+    font-family: roboto;
+    font-size: 15x;
+}
+
+.info2 {
+    font-weight: 100;
+    font-size: 18px;
+}
+
+.nuotrauka {
+    background: url("https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80");
+    width: 300px;
+    height: 400px;
+    background-size: cover;
+}
